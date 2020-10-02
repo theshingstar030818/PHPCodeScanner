@@ -1,0 +1,1 @@
+{"result": [{"vulnId": 1, "file": "../temp/testcases/case4.php", "line": 7, "column": 1, "message": "Potential Cross-Site Scripting vulnerability identified on echo", "vulnType": "Cross-Site Scripting"}]}

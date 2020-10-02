@@ -1,0 +1,28 @@
+{
+  "result": [
+    {
+      "function_name": "echo",
+      "protected_list": [
+        "htmlentities",
+        "htmlspecialchars"
+      ],
+      "vuln_type": "Cross-Site Scripting"
+    },
+    {
+      "function_name": "print",
+      "protected_list": [
+        "htmlentities",
+        "htmlspecialchars"
+      ],
+      "vuln_type": "Cross-Site Scripting"
+    },
+    {
+      "function_name": "print_r",
+      "protected_list": [
+        "htmlentities",
+        "htmlspecialchars"
+      ],
+      "vuln_type": "Cross-Site Scripting"
+    }
+  ]
+}
